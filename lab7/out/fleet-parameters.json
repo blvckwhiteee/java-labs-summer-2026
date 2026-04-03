@@ -1,0 +1,47 @@
+[
+  {
+    "manufacturer": "Toyota",
+    "model": "Prius",
+    "color": "White",
+    "tankCapacity": 45.0,
+    "producingYear": 2018,
+    "taxiId": "TX-101",
+    "driverName": "Misha"
+  },
+  {
+    "manufacturer": "Skoda",
+    "model": "Octavia",
+    "color": "Green",
+    "tankCapacity": 60.0,
+    "producingYear": 2021,
+    "taxiId": "TX-202",
+    "driverName": "Maxim"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Leaf",
+    "color": "Yellow",
+    "tankCapacity": 40.0,
+    "producingYear": 2020,
+    "taxiId": "TX-303",
+    "driverName": "Anna"
+  },
+  {
+    "manufacturer": "Tesla",
+    "model": "Model",
+    "color": "Red",
+    "tankCapacity": 101.0,
+    "producingYear": 2022,
+    "taxiId": "TX-404",
+    "driverName": "Mila"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "A7",
+    "color": "Black",
+    "tankCapacity": 75.0,
+    "producingYear": 2016,
+    "taxiId": "TX-505",
+    "driverName": "Danya"
+  }
+]
